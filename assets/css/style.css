@@ -478,12 +478,21 @@ img {
   width: 90%;
 }
 .skills_css {
-  width: 80%;
+  width: 60%;
 }
 .skills_js {
-  width: 50%;
+  width: 80%;
 }
 .skills_react {
+  width: 50%;
+}
+.skills_python {
+  width: 85%;
+}
+.skills_nodejs {
+  width: 80%;
+}
+.skills_mongo {
   width: 90%;
 }
 .skills_close .skills_list {
